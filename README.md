@@ -1,3 +1,13 @@
+React Custom Hooks:
+
+Hooks are reusable functions.
+
+When you have component logic that needs to be used by multiple components, we can extract that logic to a custom Hook.
+
+Custom Hooks start with "use". Example: useFetch.
+
+
+========================================================================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
